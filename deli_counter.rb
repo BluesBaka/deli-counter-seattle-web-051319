@@ -1,4 +1,5 @@
-deliLine =[]
+deliLine = []
+
 def line(name)
   if deliLine = 0
     return "The line is currently empty."
