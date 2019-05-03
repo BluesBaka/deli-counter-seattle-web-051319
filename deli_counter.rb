@@ -8,11 +8,11 @@ def line(name)
 
 end
 
-def take_a_number(name)
+def take_a_number(katz_deli, name)
 
 end
 
-def now_serving
+def now_serving(name)
     if deliLine = 0
       return "The line is empty."
     end
