@@ -17,9 +17,10 @@ def take_a_number(katz_deli, name)
     katz_deli.push(name)
 end
 
-def now_serving(name)
+def now_serving(katz_deli)
     if deliLine = 0
       puts "There is nobody waiting to be served!"
     end
+    puts "Currently serving: #{katz_deli[0]}"
 end
 # Write your code here.
