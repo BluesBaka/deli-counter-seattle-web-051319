@@ -1,9 +1,9 @@
 deliLine =[]
 def line(name)
   if deliLine = 0
-    return "The line is empty."
+    return "The line is currently empty."
   end
-  puts "The line is currently #{deliLine}"
+  puts "The line is currently: #{deliLine}"
 
 end
 
