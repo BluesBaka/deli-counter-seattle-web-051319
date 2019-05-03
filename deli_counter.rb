@@ -1,10 +1,10 @@
-deliLine = []
+katz_deli = []
 
 def line(name)
-  if deliLine = 0
+  if katz_deli = 0
     return "The line is currently empty."
   end
-  puts "The line is currently: #{deliLine}"
+  puts "The line is currently: #{katz_deli}"
 
 end
 
