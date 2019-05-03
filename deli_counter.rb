@@ -15,7 +15,7 @@ end
 
 def now_serving(name)
     if deliLine = 0
-      return "The line is empty."
+      puts "The line is empty."
     end
 end
 # Write your code here.
