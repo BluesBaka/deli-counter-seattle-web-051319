@@ -4,7 +4,7 @@ def line(name)
     return "The line is empty."
   end
   puts "The line is currently #{deliLine}"
-  
+
 end
 
 def take_a_number(name)
